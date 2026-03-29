@@ -1,0 +1,5 @@
+{
+  "name": "IT Knowledge Base AI Sync",
+  "description": "A system to sync WordPress Knowledge Base articles to an AI-powered retrieval service with audience-aware content separation.",
+  "requestFramePermissions": []
+}
